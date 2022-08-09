@@ -1,0 +1,16 @@
+.app__footerOverly{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    z-index: -1;
+    position: absolute;
+}
+.app__footerOverly-black{
+    height:25% ;
+    background: var(--color-black);
+}
+.app__footerOverly-img{
+    height: 75%;
+    background: var(--color-black);
+}
